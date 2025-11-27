@@ -76,7 +76,7 @@ Each issue was reviewed and closed after verification of the fix.
 
 # Student Information
 
-**Name:** Omkar Varote  
-**PRN:** 202201070136  
+**Name:** Aditya Bhange  
+**PRN:** 202201070111
 **Division:** B  
 **Subject:** Project Management  
